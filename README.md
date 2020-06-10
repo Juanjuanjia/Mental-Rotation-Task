@@ -1,4 +1,4 @@
-# Departure Point
+# Mental Rotation Experiment
 
 This repository contains a basic mental rotation task using materials from Ganis & Kievit (2015).
 
